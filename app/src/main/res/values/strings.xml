@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDApp</string>
+    <string name="login_button">Login</string>
+    <string name="message">Permissions not granted</string>
+    <string name="message_no_connection">No Internet connection</string>
+
+    <string name="dialog_title">Permissions</string>
+    <string name="dialog_message">Enter your rationale here and ask for permissions.</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+
+    <string name="battery_broadcast_receiver">Battery broadcast receiver</string>
+
+    <string name="power_connected">%s power source conntected</string>
+    <string name="power_disconnected">Power source disconntected</string>
+
+    <string name="power_source_ac">AC</string>
+    <string name="power_source_usb">USB</string>
+    <string name="power_source_wireless">Wireless</string>
+
+    <string name="create_account">Create new account</string>
+
+    <string name="title_login">Login</string>
+    <string name="title_registration">New account</string>
+
+    <string name="form_section_1">Personal data</string>
+    <string name="form_section_2">Address</string>
+    <string name="form_section_3">Contact</string>
+    <string name="form_section_4">Password</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="birth_date">Birth date</string>
+
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="street">Street</string>
+    <string name="number">Nr</string>
+    <string name="postal_code">Postal code</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+
+    <string name="email">E-mail address</string>
+    <string name="phone_number">Phone number</string>
+
+    <string name="password_confirm">Confirm password</string>
+    <string name="newsletter">Sign-in to newsletter</string>
+    <string name="register">Create account</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="account_error">You have to fill all filds in the form</string>
+    <string name="password_error">Password and password confirmation have to be the same</string>
+
+    <string name="account_create">Account created!</string>
+
+    <string name="about">About</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>

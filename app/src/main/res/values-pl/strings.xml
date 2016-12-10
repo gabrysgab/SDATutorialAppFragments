@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDApp</string>
+    <string name="login_button">Zaloguj</string>
+    <string name="message">Nie udzieliłeś uprawnień</string>
+    <string name="message_no_connection">Brak połączenia z Internetem</string>
+
+    <string name="dialog_title">Uprawnienia</string>
+    <string name="dialog_message">W tym miejscu wyjaśniamy w jakim celu potrzebujemy uprawnienia i prosimy o ich nadanie.</string>
+
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+
+    <string name="login">Login</string>
+    <string name="password">Hasło</string>
+
+    <string name="power_connected">Podłączono źródło zasilania (%s)</string>
+    <string name="power_disconnected">Odłączono źródło zasilania</string>
+
+    <string name="power_source_ac">AC</string>
+    <string name="power_source_usb">USB</string>
+    <string name="power_source_wireless">Wireless</string>
+
+    <string name="create_account">Załóż nowe konto</string>
+
+    <string name="title_login">Logowanie</string>
+    <string name="title_registration">Nowe konto</string>
+</resources>

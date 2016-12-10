@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#607D8B</color>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+
+    <color name="errorColor">#FF0000</color>
+
+    <color name="button_text_disabled">#ffffff</color>
+    <color name="button_text_pressed">#ff1c2b</color>
+    <color name="button_text_default">#683538</color>
+
+    <color name="button_disabled">#646464</color>
+    <color name="button_pressed">#ff737c</color>
+    <color name="button_default">#ffb2b7</color>
+
+    <color name="separator">#696969</color>
+
+    <color name="colorPrimaryTransparent">#B0FF9800</color>
+
+</resources>
