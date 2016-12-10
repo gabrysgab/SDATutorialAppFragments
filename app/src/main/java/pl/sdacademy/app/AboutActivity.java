@@ -1,10 +1,10 @@
 package pl.sdacademy.app;
 
 import android.content.Intent;
-import android.support.design.widget.FloatingActionButton;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -28,5 +28,9 @@ public class AboutActivity extends AppCompatActivity {
     public void openRegisterActivity() {
         Intent intent = new Intent(this, RegisterActivity.class);
         startActivity(intent);
+
+
+
+        Log.d("tag", "git");
     }
 }
